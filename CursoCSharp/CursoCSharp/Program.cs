@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using CursoCSharp.Fundamentos; // cap 1
 using CursoCSharp.EstruturaDeControle; // cap 2
+using CursoCSharp.ClassesEMetodos; // cap 3
 
 namespace CursoCSharp {
     class Program {
@@ -29,6 +30,18 @@ namespace CursoCSharp {
                 {"Estrutura IF ELSE - Estruturas de Controle", EstruturaIFELSE.Executar},
                 {"Estrutura IF ELSE IF - Estruturas de Controle", EstruturaIFELSEIF.Executar},
                 // capitulo 3 Classe & Métodos
+                // Membros → Construtores e métodos com e sem retorno, métodos estáticos
+                //  estaticos são da classe ou seja são compartilhados com todos os objetos
+                //  atributos estaticos pertencem a classe e não a instância
+                //  por padrão os atributos são private
+                //  atributos readonly são constantes que são declaradas apenas uma vez
+                {"Desafio Atributo - Classes & Metodos", DesafioAtributo.Executar},
+                {"Params - Classes & Metodos", Params.Executar},
+                {"Params - Classes & Metodos", ParametrosNomeados.Executar},
+                {"Propriedades - Classes & Metodos", Props.Executar},
+
+
+
                 // capitulo 4
                 // capitulo 5
                 // capitulo 6
