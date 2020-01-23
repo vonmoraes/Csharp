@@ -9,3 +9,6 @@ C:\Users\55319\Desktop\Csharp\Csharp\CursoCSharp\CursoCSharp\bin\Debug\netcoreap
 C:\Users\55319\Desktop\Csharp\Csharp\CursoCSharp\CursoCSharp\bin\Debug\netcoreapp2.1\CursoCSharp.pdb
 C:\Users\55319\Desktop\Csharp\Csharp\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp2.1\CursoCSharp.dll
 C:\Users\55319\Desktop\Csharp\Csharp\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp2.1\CursoCSharp.pdb
+C:\Users\55319\Desktop\Csharp\Csharp\CursoCSharp\CursoCSharp\bin\Debug\netcoreapp2.1\Encapsulamento.dll
+C:\Users\55319\Desktop\Csharp\Csharp\CursoCSharp\CursoCSharp\bin\Debug\netcoreapp2.1\Encapsulamento.pdb
+C:\Users\55319\Desktop\Csharp\Csharp\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp2.1\CursoCSharp.csproj.CopyComplete
