@@ -1,0 +1,6 @@
+produto ; preco ; quantidade
+a ; 1,99 ; 2
+b ; 2,99 ; 3
+c ; 3,99 ; 4
+d ; 4,99 ; 5
+e ; 5,99 ; 6

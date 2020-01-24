@@ -1,0 +1,7 @@
+produto ; preco ; quantidade
+f ; 1,99 ; 2
+g ; 2,99 ; 3
+h ; 3,99 ; 4
+i ; 4,99 ; 5
+j ; 5,99 ; 6
+Arquivo Original
