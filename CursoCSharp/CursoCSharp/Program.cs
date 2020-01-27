@@ -8,6 +8,7 @@ using CursoCSharp.POO; // cap 7
 using CursoCSharp.MetodosFuncoes; // cap 8
 using CursoCSharp.TratamentoExcessao; // cap 9
 using CursoCSharp.ExplorandoAPI; // cap 10
+using CursoCSharp.TopicosAvancados; // cap 10
 
 namespace CursoCSharp {
     class Program {
@@ -84,6 +85,10 @@ namespace CursoCSharp {
                 {"Exemplo DateTime - API", ExemploDateTime.Executar},
                 {"Exemplo TimeSpan - API", ExemploTimeSpan.Executar},
                 // capitulo 11
+                {"LinQ (01/02) - Topicos Avancados", ExemploLinq.Executar},
+                {"Nullable - Topicos Avancados", ExemploNullables.Executar},
+                {"Tipos Dinamicos - Topicos Avancados", ExemploTiposDinamicos.Executar},
+                {"Generic - Topicos Avancados", ExemploGenerics.Executar},
 
 
             });
