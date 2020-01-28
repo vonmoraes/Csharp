@@ -1,0 +1,35 @@
+{
+    "headers": {
+        "Pragma": "no-cache",
+        "Retry-After": "15",
+        "Vary": "Accept-Encoding",
+        "x-ms-request-id": "0b4ecc9b-6269-4304-afbc-dfccfa64ebac",
+        "OData-Version": "4.0",
+        "Strict-Transport-Security": "max-age=31536000; includeSubDomains",
+        "X-Content-Type-Options": "nosniff",
+        "X-Frame-Options": "DENY",
+        "Timing-Allow-Origin": "*",
+        "x-ms-apihub-cached-response": "true",
+        "Cache-Control": "no-store, no-cache",
+        "Date": "Tue, 28 Jan 2020 19:24:13 GMT",
+        "Location": "https://logic-apis-brazilsouth.azure-apim.net/apim/sql/43e9ae066d754d9faad3a6aae41c6598/v2/datasets/default,default/tables/%255Bdbo%255D.%255BHMA0209V%255D/onnewitems?triggerstate=eyJpZGVudGl0eSI6eyJuYW1lIjoiaWQiLCJ2YWx1ZSI6MTA2MTM4fX0%3d",
+        "Content-Type": "application/json; odata.metadata=minimal; odata.streaming=true",
+        "Expires": "-1",
+        "Content-Length": "804"
+    },
+    "body": {
+        "@odata.etag": "",
+        "ItemInternalId": "e80ac0a6-f583-404a-998c-6e318a724eab",
+        "HMHCODIG": "teste",
+        "HMTDTLIN": "2020-01-28T19:24:08.0100000",
+        "HMTDTLFI": "2020-01-28T19:24:08.0100000",
+        "HMNIDCCS": 50,
+        "HMNIDEVC": 10,
+        "HM8CODSA": "as",
+        "HMNINDGB": 12,
+        "HMNDTUCO": "2020-01-28T19:24:08.0100000",
+        "HMOIDLIC": 5666773,
+        "timestamp": "AAAAAAABqEI=",
+        "id": 106138
+    }
+}
