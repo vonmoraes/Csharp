@@ -64,6 +64,7 @@ namespace CursoCSharp.TopicosAvancados {
             var soma_notas = alunos.Sum(aluno => aluno.nota);
             var media_notas = alunos.Average(aluno => aluno.nota);
 
+            // testes diversos 
         }
 
     }
